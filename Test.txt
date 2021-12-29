@@ -1,1 +1,3 @@
 Trying to resolve SSH problems
+
+git remote set-url origin git@github.com:username/repo.git executed
