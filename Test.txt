@@ -1,5 +1,1 @@
-Hello SSH Base Connection
-
-This is test file
-
-And this is another commit from local machine
+Trying to resolve SSH problems
